@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "fullName": "Pritesh Zaver",
+            "email": "pritesh@zaver.com",
+            "isStaff": true
+        },
+        {
+            "id": 2,
+            "fullName": "Ben Hoberg",
+            "email": "ben@hoberg.com",
+            "isStaff": false
+        },
+        {
+            "id": 3,
+            "fullName": "Davis Dyer",
+            "email": "davis@dyer.com",
+            "isStaff": false
+        }
+    ],
+    "playlists": [
+        {
+            "id": 1,
+            "userId": 1,
+            "description": "pop"
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "description": "rock"
+        },
+        {
+            "id": 3,
+            "userId": 3,
+            "description": "jazz"
+        }
+    ],
+    "playlistSongs": []
+}
